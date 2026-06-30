@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0014/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0014/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶八仙王教誡經
+  date: '2015-08-29 02:06:49.904411'
+  source:
+    repository: kanripo
+    path: KR5e0014
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0014_000-CK-KZ.yaml, hash: 'sha256:d2e7a47b617ebd7830bab2ba2c2997064dd002619493cf330a6fb9da70a87c6b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0014_000-CK-KZ.markers.yaml, hash: 'sha256:8aad3b08cff965babaf3dbc63bc9710346a9073eea860b2cc8274c2ec07b0725'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0014_CK-KZ_01p021a
+    span:
+    - body
+    - 0
+    - 1960
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ceb443b1858dc29cbe18d270ec5f0f6977489182cc990bcd36bf6aee423ce9c0

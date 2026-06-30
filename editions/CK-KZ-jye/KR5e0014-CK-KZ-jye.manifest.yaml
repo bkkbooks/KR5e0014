@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5e0014/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0014/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶八仙王教誡經
+  date: '2015-08-29 02:06:49.904411'
+  source:
+    repository: kanripo
+    path: KR5e0014
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0014_000-CK-KZ-jye.yaml, hash: 'sha256:f26a04de50d26de6366b7991b37b7933ccc4105cb679663a24edd3bc5e43b6a1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0014_000-CK-KZ-jye.markers.yaml, hash: 'sha256:eb1422f9f7b1000693e0d58da76dea2851ca90320685f73d1aa3581aa603d1c2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0014_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 1950
+  label: 洞玄靈寶八仙王教誡經
+  type: section
+  level: 1
+hash: sha256:0d6222789ec25f3459f620d08792ddb61bfe02cecc87889cba8c258a9d5891d9
